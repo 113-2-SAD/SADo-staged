@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="3.0897210000000004">
+<testsuite name="todo.spec.js" timestamp="2025-04-27T18:13:45.521Z" hostname="chromium" tests="1" failures="0" skipped="0" time="0.641" errors="0">
+<testcase name="測試新增待辦事項" classname="todo.spec.js" time="0.641">
+</testcase>
+</testsuite>
+</testsuites>
